@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node.js dependencies
+**/node_modules/
+
+# Environment variables and secrets
+**/.env
+
+# Personal facial recognition dataset
+backend/dataset/
+
+# Keep personal facial images out of the public repository
+/backend/routes/dataset/
+/dataset/*
+
+# Include the trained model
+!/dataset/ds_model_vggface_detector_opencv_aligned_normalization_base_expand_0.pkl
+
