@@ -133,3 +133,11 @@ FacialRecognitionAttendance is a software development project focused on applyin
 
 
 **GitHub Repository:** [KJFraser03/FacialRecognitionAttendance](https://github.com/KJFraser03/FacialRecognitionAttendance)
+
+<img width="368" height="653" alt="image" src="https://github.com/user-attachments/assets/231f6f71-272e-4894-80d5-2644124b3c72" />
+
+
+<img width="1770" height="998" alt="image" src="https://github.com/user-attachments/assets/6dc16026-8414-4808-b89e-a105c589f5d5" />
+
+
+
